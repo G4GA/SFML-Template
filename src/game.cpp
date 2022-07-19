@@ -1,4 +1,4 @@
-#include "headers\game.hpp"
+#include "..\headers\game.hpp"
 
 
 Game::Game () : window(sf::VideoMode(200, 200), "SFML works!"), shape(100.f) {}
