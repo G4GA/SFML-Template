@@ -1,9 +1,9 @@
 #include <SFML/Graphics.hpp>
-#include "headers\Test.hpp"
+#include "headers\test.hpp"
 
 int main()
 {
-    
+    Test(15);
     sf::RenderWindow window(sf::VideoMode(200, 200), "SFML works!");
     sf::CircleShape shape(100.f);
     shape.setFillColor(sf::Color::Green);
