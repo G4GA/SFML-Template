@@ -1,7 +1,6 @@
-#ifndef GAME_HPP
-#define GAME_HPP
-#include <SFML\Graphics.hpp>
-#include<iostream>
+#ifndef CLASS_HPP
+#define CLASS_HPP
+
 
 class Class {
 
